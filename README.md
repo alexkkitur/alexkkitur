@@ -1,100 +1,123 @@
-# 👋 Hi, I’m Alex Kitur
+👋 Hi, I'm Alex Kitur
 
-🚀 **Software Engineering Student | Cybersecurity Enthusiast | AI Explorer | Future Security Engineer**
+🚀 Software Engineer | Full-Stack Developer | AI & Cybersecurity Enthusiast
 
-I’m currently pursuing a Bachelor’s in Information Technology (Specialization: Software Engineering) at Kabarak University, Kenya. Passionate about building secure, scalable, and intelligent systems, I work at the intersection of software engineering, AI, and cybersecurity.
+I'm a passionate software engineer specializing in building secure, scalable, and high-performance systems. With expertise across the full software development lifecycle, I create robust web applications using modern technologies while maintaining a strong focus on security best practices and system reliability.
+🔹 About Me
 
----
+    💼 Full Stack Developer with professional experience at RAI Alliance and Ziprof Technologies
 
-## 🔹 About Me
+    🎓 Final-year IT student at Kabarak University, specializing in Software Engineering
 
-- 🎓 Final-year IT student specializing in Software Engineering with strong foundations in system design, secure coding, and AI-driven solutions.
-- 🤖 Exploring Artificial Intelligence & Machine Learning with a focus on real-world applications in cybersecurity, IoT, and predictive systems.
-- 🛡️ Cybersecurity learner focused on cryptography, threat analysis, forensics, and risk management.
-- 💻 Building projects around web apps, e-commerce systems, IoT + ML, and device tracking security solutions.
-- 📚 Preparing for CompTIA Security+ and sharpening practical AI + cyber tools for hands-on problem-solving.
-- 🎯 **Career Goal:** Security Engineer at NIS Kenya, and long-term dream of joining Google.
+    🛠️ Experienced in React.js, Python (Flask), PHP (Laravel), MySQL, MongoDB, and RESTful APIs
 
----
+    🔒 Passionate about secure coding practices, system architecture, and cybersecurity
 
-## 🛠️ Tech Stack
+    🤖 Exploring AI/ML integration in web applications and cybersecurity solutions
 
-### Languages & Frameworks
+    🎯 Career Focus: Building enterprise-grade software systems with emphasis on security and scalability
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-<br>
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+🛠️ Tech Stack
+Languages & Frameworks
 
-### Databases & Tools
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![WSGI](https://img.shields.io/badge/WSGI-000000?style=flat)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+Databases & Cloud
 
-### Cybersecurity & Networking
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+Development Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=flat)
-<br>
-🔐 Cryptography | 🕵️ Digital Forensics | 🎯 Threat Hunting
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+AI & Data Science
 
-### Artificial Intelligence & Data Science
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
+💼 Professional Experience
+🔗 RAI Alliance - Full Stack Developer
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-<br>
-![NLTK](https://img.shields.io/badge/NLTK-009688?style=flat)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-🤖 Generative AI & Large Language Models | ⚖️ AI Ethics & Security
+*Mar 2025 - Present*
 
----
+    Developing modern, responsive web applications using React.js and RESTful APIs
 
-## 📌 Featured Projects
+    Implementing scalable backend systems and efficient client-server communication
 
-- **Smart Attendance System:** Real-time GPS-based student tracking + automated exam card generation
-- **Secure E-Commerce Platform:** A Kilimall-like system with M-Pesa integration, QR code validation, and fraud detection
-- **Lost Device Tracker:** A project to help recover stolen phones/laptops and block unauthorized use
-- **AI-Powered Feedback Analyzer:** Sentiment analysis of parent/student feedback using NLP
-- **Ticketing System (Laravel):** Admin dashboard, QR code validation, WhatsApp/SMS ticket delivery
+    Collaborating with remote teams to deliver high-quality software solutions
 
----
+Ziprof Technologies - Full Stack Developer
 
-## 🌱 Currently Learning
+*Sep 2024 - Dec 2024*
 
-- 🛡️ Advanced cybersecurity tools & forensics
-- 🤖 AI for Cybersecurity (threat detection, fraud prevention, anomaly detection)
-- ☁️ Cloud security (AWS, GCP)
-- 🧠 Deep Learning & Generative AI for practical solutions
+    Led development of a Ticketing System with QR validation and M-Pesa integration
 
----
+    Built full-stack applications using React.js, Laravel, Flask, and WordPress
 
-## 📫 Let’s Connect
+    Implemented security best practices and RESTful API integrations
 
-- 🌐 Portfolio Website: *Coming Soon*
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-kitur-74b442368)
-- 📧 Email: kituralexkiptoo@gmail.com
+🚀 Featured Projects
+🛒 Multi-Category E-Commerce Rental Platform
 
----
+Full-stack rental application featuring:
+
+    3-tier MVC architecture with Flask backend
+
+    MongoDB database integration
+
+    M-Pesa payment gateway
+
+    Responsive UI design
+
+🎓 CBC AI Support System
+
+AI-powered educational platform:
+
+    React.js frontend with Flask REST APIs
+
+    Gemini OCR for text extraction
+
+    Hugging Face AI integration
+
+    MongoDB data storage
+
+🎫 Ticketing System (Laravel)
+
+Enterprise ticketing solution:
+
+    QR code validation system
+
+    M-Pesa payment integration
+
+    Admin dashboard and analytics
+
+    Secure user authentication
+
+📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=alexkkitur&show_icons=true&theme=dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=alexkkitur&layout=compact&theme=dark
+📫 Let's Connect
+
+    💼 LinkedIn
+
+    📧 Email: alexofficial427@gmail.com
+
+    🏠 Location: Nairobi, Kenya
+
+"Building the future, one secure line of code at a time."
