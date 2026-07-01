@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alex Kitur
 
-🚀 **Software Engineer | Full-Stack Developer | AI & Cybersecurity Enthusiast**
+🚀 **Implementation & Backend Engineer | Python | AI Systems**
 
-I'm a passionate software engineer specializing in building **secure, scalable, and high-performance systems**. With expertise across the full software development lifecycle, I create robust web applications using modern technologies while maintaining a strong focus on security best practices and system reliability.
+I am a performance-driven Software Engineer specializing in translating complex end-user requirements into robust, secure, and highly scalable systems. My core engineering focus blends clean 3-tier MVC architectures, data-driven optimization, automated unit testing, and intelligent AI integrations.
 
 ---
 
@@ -17,8 +17,8 @@ I'm a passionate software engineer specializing in building **secure, scalable, 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -28,14 +28,14 @@ I'm a passionate software engineer specializing in building **secure, scalable, 
 ### **Databases & Cloud**
 <div align="center">
   
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
-### **Development Tools**
+### **Development Tools & Metrics**
 <div align="center">
   
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,28 +52,40 @@ I'm a passionate software engineer specializing in building **secure, scalable, 
 
 ### **🔗 [RAI Alliance](https://github.com/alexkkitur/RAI-alliance-ui)** - Full Stack Developer
 `Mar 2025 - Present`
-- Developing modern, responsive web applications using React.js and RESTful APIs
-- Implementing scalable backend systems and efficient client-server communication  
-- Collaborating with remote teams to deliver high-quality software solutions
+- Collaborating with cross-functional engineering squads to build modern, highly-responsive web structures using a React.js frontend.
+- Managing backend REST API integrations to assure zero-latency, secure client-server messaging pipelines.
+- Maintaining rigorous version control, structural documentation, and code optimization via continuous GitHub workflows.
+
+### **Kenya Education Management Institute (KEMI)** - Software Engineer Intern
+`Jan 2026 - Mar 2026`
+- Translated complex administrative requirements into a centralized, production-ready Student Portal serving 500+ active users.
+- Designed robust enterprise system architecture featuring multi-tiered, role-based authentication to secure student data.
 
 ### **Ziprof Technologies** - Full Stack Developer  
 `Sep 2024 - Dec 2024`
-- Led development of a **Ticketing System** with QR validation and M-Pesa integration
-- Built full-stack applications using React.js, Laravel, Flask, and WordPress
-- Implemented security best practices and RESTful API integrations
+- Led the architecture and deployment of an enterprise **Ticketing System** integrated with the **M-Pesa Express API**.
+- Engineered secure server-to-client payment confirmation webhooks and cryptographic QR code validation systems.
+- Implemented core code optimizations, strict backend security best practices, and testable RESTful routes.
 
 ---
 
 ## 🚀 **Featured Projects**
 
-### **🛒 [Multi-Category E-Commerce Rental Platform](https://github.com/alexkkitur/Unirent_App)**
-> Full-stack rental application featuring 3-tier MVC architecture with Flask backend, MongoDB integration, and M-Pesa payment gateway
+### **🛒 [Multi-Category E-Commerce Rental Platform (UniRent)](https://github.com/alexkkitur/Unirent_App)**
+> Engineered an end-to-end physical asset engine using a clean **3-tier MVC architecture** with a **Python (Flask)** backend. Features real-time state mutations on **MongoDB** clusters and asynchronous transaction tracking with the **M-Pesa API**.
 
 ### **🎓 CBC AI Support System** 
-> AI-powered educational platform with React.js frontend, Flask REST APIs, Gemini OCR, and Hugging Face AI integration
+> Built an automated educational engine leveraging **Gemini OCR** for data extraction and **Hugging Face APIs** for NLP processing. Connected distributed **Flask REST microservices** directly to a structured MongoDB datastore.
 
-### **🎫 Ticketing System (Laravel)**
-> Enterprise ticketing solution with QR code validation, M-Pesa integration, and secure user authentication
+### **🎫 Enterprise FinTech Ticketing System**
+> Engineered secure user identity models, automated transactional ticketing pipelines, and deployed high-performance relational databases mapping real-time validation usage metrics.
+
+---
+
+## 📐 **Engineering Quality & Academic Metrics**
+*   **Software Metrics & Engineering (`INTE 471`)** – **Grade: A** | Core expertise in testing complexity, code coverage analysis, and system architecture reliability.
+*   **Data Structures & Algorithms (`INTE 123`)** – **Grade: A** | Algorithmic logic mapping and execution performance optimization.
+*   **Computer Organization & Architecture (`INTE 216`)** – **Grade: A** | Structural design foundation for building scalable IT services.
 
 ---
 
@@ -94,10 +106,10 @@ I'm a passionate software engineer specializing in building **secure, scalable, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-kitur-74b442368)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexofficial427@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![GitHub Portfolio](https://shields.io)](https://github.com/alexkkitur)
 
 </div>
 
 ---
 
-> **"Building the future, one secure line of code at a time."** 🔒
+> **"Building high-performance, scalable architectures, one clean line of code at a time."** ⚡
